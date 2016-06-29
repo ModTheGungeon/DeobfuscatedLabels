@@ -1,0 +1,30 @@
+GClass16.Vector3 smethod_0 = SetY
+GameUIRoot.GameUIRoot_0.dfLabel_2 = CurrencyLabel
+GameUIRoot.GameUIRoot_0.dfLabel_3 = KeyBulletsLabel
+
+GameManager.GameManager_0.PlayerController_0 = ???
+GameManager.GameManager_0.PlayerController_1 = CurrentPlayer
+
+PlayerController_1.Gun_0 = CurrentGun
+PlayerController_1.Gun_0.int_0 = CurrentGunID
+
+Gun.int_0 = GunID
+
+GameManager.gameObject_2 = LastUsedPlayer
+
+GameManager.method_31 = OnFoyerReturn
+GameManager.method_21 = OnQuickRestart
+
+GInterface24 = LockableInterface
+(May differ on Windows, need checking)
+
+InteractableLock.method_6 = UnlockObject
+InteractableLock.method_5 = LockObjectForever
+
+DungeonDoorController.method_44 = UnlockObject
+DungeonDoorController.method_45 = LockObjectForever
+
+Chest.method_21 = UnlockObject
+Chest.method_32 = LockObjectForever
+
+DungeonPlaceableBehaviour.vmethod_0 = DungeonPlaceableBehaviour.InstantiateDirectional
